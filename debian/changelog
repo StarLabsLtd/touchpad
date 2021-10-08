@@ -1,0 +1,62 @@
+starlabs-touchpad (1) impish; urgency=medium
+
+  * Added quirk for StarBook Mk V
+  * Added quirk for StarLabTop Mk IV
+  * Added quirk for StarLite Mk III
+  * Added quirk for StarLite Mk II
+
+ -- Sean Rhodes <sean@starlabs.systems>  Fri, 14 Feb 2020 14:56:16 +0000
+
+starlabs-touchpad (0.1.0) bionic; urgency=medium
+
+  * Added quirk to force buttonpad
+
+ -- Sean Rhodes <sean@starlabs.systems>  Fri, 14 Feb 2020 12:01:05 +0000
+
+starlabs-touchpad (0.0.9) eoan; urgency=medium
+
+  * Minor changes reverted
+
+ -- Sean Rhodes <sean@starlabs.systems>  Wed, 12 Feb 2020 14:50:36 +0000
+
+starlabs-touchpad (0.0.8) eoan; urgency=medium
+
+  * Adjusted for Cinnamon
+
+ -- Sean Rhodes <sean@starlabs.systems>  Wed, 12 Feb 2020 11:47:55 +0000
+
+starlabs-touchpad (0.0.7) eoan; urgency=medium
+
+  * Removed unsupported quirk for older versions
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 06 Feb 2020 14:40:30 +0000
+
+starlabs-touchpad (0.0.6) eoan; urgency=medium
+
+  * Fixed bug
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 06 Feb 2020 11:15:42 +0000
+
+starlabs-touchpad (0.0.5) eoan; urgency=medium
+
+  * Fixed bug
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 06 Feb 2020 10:00:35 +0000
+
+starlabs-touchpad (0.0.4) eoan; urgency=medium
+
+  * Add quirks for gestures
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 06 Feb 2020 09:01:38 +0000
+
+starlabs-touchpad (0.0.2) eoan; urgency=medium
+
+  * Tweaked values
+
+ -- Sean Rhodes <sean@starlabs.systems>  Tue, 21 Jan 2020 10:44:11 +0000
+
+starlabs-touchpad (0.0.1) eoan; urgency=medium
+
+  * Initial release.
+
+ -- Sean Rhodes <sean@starlabs.systems>  Tue, 21 Jan 2020 10:20:59 +0000
