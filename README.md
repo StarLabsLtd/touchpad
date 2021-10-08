@@ -18,7 +18,7 @@ sudo apt remove starlabs-touchpad
 
 ## Other Distributions
 ```
-sudo wget -O /usr/share/libinput/30-vendor-starlabs.quirks
+sudo wget -O https://raw.githubusercontent.com/StarLabsLtd/touchpad/main/usr/share/libinput/30-vendor-starlabs.quirks /usr/share/libinput/30-vendor-starlabs.quirks
 ```
 
 
