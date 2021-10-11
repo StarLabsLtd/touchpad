@@ -1,3 +1,9 @@
+starlabs-touchpad (2) impish; urgency=medium
+
+  * Updated quirk for LabTop Mk IV
+
+ -- Sean Rhodes <sean@starlabs.systems>  Mon, 11 Oct 2021 08:20:13 +0100
+
 starlabs-touchpad (1) impish; urgency=medium
 
   * Added quirk for StarBook Mk V
