@@ -1,3 +1,27 @@
+starlabs-touchpad (6+f) focal; urgency=medium
+
+  * CI Build
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 12 May 2022 07:16:35 +0100
+
+starlabs-touchpad (5+j) jammy; urgency=medium
+
+  * CI Build
+
+ -- Sean Rhodes <sean@starlabs.systems>  Wed, 11 May 2022 10:06:21 +0100
+
+starlabs-touchpad (4+j) jammy; urgency=medium
+
+  * Update quirk for Lite Mk IV
+
+ -- Sean Rhodes <sean@starlabs.systems>  Mon, 09 May 2022 12:10:28 +0100
+
+starlabs-touchpad (3+j) jammy; urgency=medium
+
+  * Add quirk for Lite Mk IV
+
+ -- Sean Rhodes <sean@starlabs.systems>  Mon, 09 May 2022 12:06:59 +0100
+
 starlabs-touchpad (2) impish; urgency=medium
 
   * Updated quirk for LabTop Mk IV

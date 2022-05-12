@@ -21,6 +21,7 @@ MatchName=HTIX5288:00 093A:0255 Touchpad
 MatchUdevType=touchpad
 MatchDMIModalias=dmi:*svnStarLabs:pnStarLite*
 AttrEventCodeDisable=BTN_RIGHT
+ModelHPStream11Touchpad=1
 
 [StarLite Mk III - coreboot firmware]
 MatchName=STAR0001:00 093A:0255 Touchpad
