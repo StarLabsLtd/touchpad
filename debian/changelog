@@ -1,3 +1,9 @@
+starlabs-touchpad (7+f) focal; urgency=medium
+
+  * CI Build
+
+ -- Sean Rhodes <sean@starlabs.systems>  Thu, 12 May 2022 07:52:11 +0100
+
 starlabs-touchpad (6+f) focal; urgency=medium
 
   * CI Build
