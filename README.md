@@ -6,7 +6,7 @@ Quirks for touchpads used in Star Labs laptops
 ## Ubuntu and Debian based distributions
 ##### Install
 ```
-sudo add-apt-repository ppa:starlabs/ppa
+sudo add-apt-repository ppa:starlabs/main
 sudo apt update
 sudo apt install starlabs-touchpad
 ```
